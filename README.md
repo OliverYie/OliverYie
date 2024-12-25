@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in web development and 
 - 🌱 I’m currently learning **React** and **Node.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript**, **Python**, and **web development**
-- 📫 How to reach me: [oliveryie@example.com](mailto:oliveryie@example.com)
+- 📫 How to reach me: [oy2065@nyu.edu](mailto:oy2065@nyu.edu)
 - ⚡ Fun fact: I love hiking and photography
 
 ## My GitHub Stats
